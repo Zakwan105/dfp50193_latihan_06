@@ -30,8 +30,6 @@
         ?>
     
 
-    <p><a href = "jadual.php"
-
 </body>
 
 </html>
